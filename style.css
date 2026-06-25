@@ -184,13 +184,13 @@ ul { list-style: none; }
 }
 .logo-s {
   display: inline-block;
-  width: 36px; height: 36px;
+  width: 55px; height: 55px;
   background: var(--blue);
   color: var(--white);
   border-radius: 50%;
   text-align: center;
-  line-height: 36px;
-  font-size: 1.1rem;
+  line-height: 55px;
+  font-size: 0.9rem;
   margin-right: 8px;
 }
 .nav-links {
